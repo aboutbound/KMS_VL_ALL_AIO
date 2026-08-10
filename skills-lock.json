@@ -55,6 +55,12 @@
       "skillPath": "skills/improve-ui/SKILL.md",
       "computedHash": "5bd7689c5508c6bd8166f796b3d1bd32255077447595b14b60fac9847dce63f1"
     },
+    "sleek-design-mobile-apps": {
+      "source": "sleekdotdesign/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-mobile-apps/SKILL.md",
+      "computedHash": "08a0337719296003877cfbbf193d6f5c4700ccd6acfbbb069c70ebb8e80ef90d"
+    },
     "ui-skills-root": {
       "source": "ibelick/ui-skills",
       "sourceType": "github",
