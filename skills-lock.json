@@ -55,6 +55,12 @@
       "skillPath": "skills/improve-ui/SKILL.md",
       "computedHash": "5bd7689c5508c6bd8166f796b3d1bd32255077447595b14b60fac9847dce63f1"
     },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pdf/SKILL.md",
+      "computedHash": "cfbc539377088ca7e44a813b30c306327385bbd973cd7a721e1743f60837dd62"
+    },
     "sleek-design-mobile-apps": {
       "source": "sleekdotdesign/agent-skills",
       "sourceType": "github",
